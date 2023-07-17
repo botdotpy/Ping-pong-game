@@ -1,2 +1,2 @@
-# Ping-Pong-Game
+
 Detailed ping pong game created using combined features of Turtle and Tkinter python libraries.
