@@ -1,7 +1,7 @@
 # Ping-pong-game
 Ping pong game created using combined features of Turtle and Tkinter python libraries.
 
-# Player/Difficulty Input
+# Player-Difficulty Input
 ![Screenshot (161)](https://github.com/botdotpy/Ping-pong-game/assets/131703097/a5235b01-b373-4f27-8086-cb5b30ca0cea)
 
 # Instructions
